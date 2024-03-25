@@ -44,7 +44,7 @@ a.onclick=()=>{
     // audio.pause();
     // audio.currentTime = 0
     n.setAttribute("class","a2")
-    n.innerHTML="<b>Decide the location</b>"+"<br><br>"+"<br>"+"<b>Happy holi s</b>"
+    n.innerHTML="<b>Decide the location</b>"+"<br><br>"+"<br>"+"<b>Happy holi </b>"
     a.setAttribute("hidden","true");
     b.setAttribute("hidden","true");
     // n.style.color="black";
